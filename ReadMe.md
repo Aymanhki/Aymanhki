@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Pineapples on pizza are not that bad.
+I don't like pineapples on pizza.
 
 <!--
 **Aymanhki/Aymanhki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
