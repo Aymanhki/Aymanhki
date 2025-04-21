@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I don't like pineapples on pizza.
+I don't like pineapples on pizza, but we can still be friends if you do.
 
 <!--
 **Aymanhki/Aymanhki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
